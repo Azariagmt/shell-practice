@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Enter cost"
+read cost
+echo "Your cost is \$$cost"

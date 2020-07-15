@@ -1,0 +1,27 @@
+#!/bin/bash
+#
+#check grade
+#
+if test $# -eq 0
+then
+	echo "No arguments found"
+	exit 1
+fi
+
+if test $1 -ge 90
+then 
+	echo "Grade is A+"
+
+elif test $1 -ge 85
+then
+	echo "Grade is A"
+
+elif test $1 -ge 80
+then
+	echo "Grade is A-"
+
+else
+	echo "Woww!"
+
+fi
+

@@ -1,0 +1,22 @@
+date
+date.sh
+file1.txt
+first
+greet.sh
+hellomf.sh
+hello.sh
+hellter
+hellter,sh
+hellter.sh
+lengthcheck.txt
+line.sh
+list.txt
+script.sh
+sorted.txt
+storednew.txt
+touchfirstshell.sh
+try.sh
+unsort.txt
+Untitled Document 1
+Untitled Document 1.sh
+ዓርብ፣ ኖቬምበር 22 ቀን  9:17:48 ከሰዓት EAT 2019 ዓ/ም

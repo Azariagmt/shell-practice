@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+#if else fi
+#
+if test $1 -ge 0
+then
+echo "Number is positu!"
+else
+echo "Number is not positue!"
+fi

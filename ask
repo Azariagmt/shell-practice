@@ -1,0 +1,13 @@
+#!/bin/bash
+#read name and age
+echo "Please enter your name"
+read name
+echo "and your age please!"
+read age
+
+if test $age -ge 18
+then 
+echo "Hello $name you can vote and drink now!"
+else
+echo "Hello $name you are $age, still a bwabyy!"
+fi
